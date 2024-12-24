@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("abcd!\n");
+	printf("a!\n");
 	return 0;
 }
